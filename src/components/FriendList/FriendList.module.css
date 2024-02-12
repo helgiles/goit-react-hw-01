@@ -1,0 +1,18 @@
+.friends {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  gap: 20px;
+  padding: 20px;
+}
+
+.friend {
+  border: 3px solid #313131;
+  border-radius: 10px;
+  width: 130px;
+  height: 200px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}

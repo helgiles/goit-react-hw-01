@@ -1,0 +1,13 @@
+.name {
+  color: #1d1d1d;
+  font-size: 28px;
+  font-weight: 600;
+}
+
+.online {
+  color: green;
+}
+
+.offline {
+  color: red;
+}

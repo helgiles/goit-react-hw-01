@@ -1,0 +1,29 @@
+td {
+  border: 2px solid #2a2a2a;
+}
+
+.table {
+  width: 760px;
+  margin: 20px 0;
+  font-size: 18px;
+  border-collapse: collapse;
+}
+
+.header {
+  background-color: #2a2a2a;
+  color: #ffffff;
+  border: 2px solid #2a2a2a;
+}
+
+.type {
+  text-transform: capitalize;
+}
+
+.row {
+  background-color: white;
+  height: 40px;
+}
+
+.row:nth-child(even) {
+  background-color: #d0d0d0;
+}
